@@ -1,6 +1,6 @@
 //Day 2 :- 
 
-// activity-01-arithmetic-operators.js
+// activity-01-arithmetic-operators
 
 // Task 1: Program to add two numbers
 
